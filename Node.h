@@ -9,7 +9,7 @@ namespace Algorithms
 	/**
 	 * The Node ADT
 	 *
-	 * @author Michael Melachridis
+	 * @programmer Richard Caaya
 	 */
 	template <typename T>
 	class Node 
