@@ -36,7 +36,7 @@ namespace Algorithms
 	 *  This implementation uses an adjacency-lists representation, which 
 	 *  is a vectror of lists of <code>Edge</code> objects.
 	 *
-	 *  @author Michael Melachridis (michael.melachirdis@gmail.com)
+	 *  @programmer Richard Caaya
 	 */
 	class Graph
 	{
