@@ -2,8 +2,8 @@
  * PriorityQueue.h
  *
  *  Created on: Dec 25, 2016
- *      Author: Michael Melachridis
- *       Email: michael.melachridis@gmail.com
+ *  Programmer Richard Caaya
+ *       
  */
 
 #ifndef PRIORITYQUEUE_H_
