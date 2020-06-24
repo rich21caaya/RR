@@ -1,9 +1,9 @@
 /**
  * MST.cpp
  *
- *  Created on: Jan 6, 2017
- *      Author: Michael Melachridis
- *       Email: michael.melachridis@gmail.com
+ *  Programmed on: June 24, 2020
+ *  Programmer: Richard Caaya
+ *  Email: richardcaaya5@gmail.com
  */
 
 #include "MST.h"
