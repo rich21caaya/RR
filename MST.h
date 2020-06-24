@@ -11,7 +11,7 @@ namespace Algorithms
 	 * <em>minimum spanning tree</em> in an edge-weighted graph
 	 * using Prim's greedy algorithm.
 	 *
-	 * @author Michael Melachridis (michael.melachirdis@gmail.com)
+	 * @programmer Richard Caaya
 	 */
 	class MST
 	{
